@@ -1,4 +1,4 @@
-# Webpack Starter
+# Todo List Webpack
 
 Aplicacion de lista de tareas en Webpack.
 
